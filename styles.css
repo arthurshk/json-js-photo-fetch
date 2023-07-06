@@ -1,0 +1,14 @@
+#photos {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.photo {
+    width: 200px;
+    margin: 10px;
+}
+
+.photo img {
+    width: 100%;
+    height: auto;
+}
